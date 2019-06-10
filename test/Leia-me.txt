@@ -1,0 +1,5 @@
+O arquivo para ser executado é o "CentauroSelScript.rb"
+
+Ficou pendente fazer a integração com Capybara.
+
+Foram utilizados o bundler e Rubymine nesse projeto.
